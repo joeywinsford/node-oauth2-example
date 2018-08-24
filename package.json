@@ -1,5 +1,5 @@
 {
-  "name": "node-authentication-example",
+  "name": "node-oauth2-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
